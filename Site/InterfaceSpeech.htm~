@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html lang="pt-Br">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Daniel de Castro Rodrigues">
+    <link rel="icon" href=" ">
+
+   <title>Interface Speech</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="dist/css/justified-nav.css" rel="stylesheet">
+
+   
+	
+  </head>
+
+  <body cz-shortcut-listen="true">
+    <script language="javascript">
+		
+	if (navigator.appName == "Microsoft Internet Explorer") {
+			document.location = "ie.html"; 
+	} 
+		
+    </script>
+
+    <div class="container">
+
+      <div class="masthead">
+        <h6 class="text-muted">Interface Speech</h6>
+        <ul class="nav nav-justified">
+          <li class="active"><a href="http://getbootstrap.com/examples/justified-nav/#">Home</a></li>
+          
+          <li><a href="http://getbootstrap.com/examples/justified-nav/#">Projeto</a></li>
+          <li><a href="http://getbootstrap.com/examples/justified-nav/#">Downloads</a></li>
+          <li><a href="http://getbootstrap.com/examples/justified-nav/#">Contato</a></li>
+          <li><a href="http://getbootstrap.com/examples/justified-nav/#">Acesso</a></li>
+        </ul>
+      </div>
+
+      <!-- Jumbotron -->
+      <div class="jumbotron">
+        <h1>Interface Speech</h1>
+        <p class="lead">Sistema de comunicação e assistência familiar para pessoas em estado quase vegetativo.</p>
+        <p><a class="btn btn-lg btn-success" href="http://getbootstrap.com/examples/justified-nav/#" role="button">Acesso de Familiar</a></p>
+      </div>
+
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-lg-4">
+          <h2>O Projeto</h2>
+          <p>Com intúito de facilitar a vida de pessoas deficientes e seus familiares, Vitor Hugo Carvalho de Sá e Daniel de Castro Rodrigues desenvolveram no MakroLab com apoio da FATEC Carapicuíba e da Makro Systems,  este sistema de comunicação para deficientes.</p>
+          <p><a class="btn btn-primary" href="http://getbootstrap.com/examples/justified-nav/#" role="button">Mais detalhes »</a></p>
+        </div>
+        <div class="col-lg-4">
+          <h2>Realização</h2>
+          <h4>MakroLab</h4>
+		  <h6>Daniel de Castro Rodrigues</h6>
+		  <h6>Vitor Hugo Carvalho de Sá</h6>
+          <p><a class="btn btn-primary" href="http://getbootstrap.com/examples/justified-nav/#" role="button">Mais detalhes »</a></p>
+       </div>
+        <div class="col-lg-4">
+          <h2>Apoio</h2>
+		  <a href="http://makrosystems.com.br/">Imglogo</a>
+          <p>MakroSystems</p>
+		  <a href="http://www.fateccarapicuiba.edu.br/">Imglogo</a>
+          <p>Fatec Carapicuíba</p>
+          
+        </div>
+      </div>
+
+      <!-- Site footer -->
+      <div class="footer">
+        <p>© MakroLab 2014</p>
+      </div>
+
+    </div> <!-- /container -->
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="./Justified Nav Template for Bootstrap_files/ie10-viewport-bug-workaround.js"></script>
+  
+
+</body></html>
